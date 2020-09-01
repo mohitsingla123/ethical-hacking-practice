@@ -21,3 +21,5 @@ for checking port 80 is open in any of the ip. execute this is command line.
 ```
 
 Java Code for [Brute Force attack on cipher](https://github.com/mohitsingla123/ethical-hacking-practice/blob/master/cipher_brute_force.java)
+
+Java Code for [Hill cipher](https://github.com/mohitsingla123/ethical-hacking-practice/blob/master/Hill_Cipher.java) for n*n .
